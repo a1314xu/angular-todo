@@ -1,0 +1,23 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "xu_pc",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "logger": "0.0.1",
+    "mongoose": "^4.6.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
